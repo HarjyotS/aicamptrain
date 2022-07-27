@@ -1,0 +1,12 @@
+names:
+- clean-fabric
+- messy-toys
+- messy_dishes
+- messy_fabric
+- messy_misc
+- messy_pens
+- messy_tools
+- messy_trash
+nc: 8
+train: OrganizeAi-2/train/images
+val: OrganizeAi-2/valid/images
